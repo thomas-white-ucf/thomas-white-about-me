@@ -15,10 +15,6 @@ img {
     margin: auto;
 }
 
-.contactarea {
-    margin: right;
-}
-
 .containterfloatleftright {
     float: left;
     float: right;
@@ -32,12 +28,8 @@ img {
     float: right;
 }
 
-.paddingmain {
-    padding: 250px;
-    margin: 250px;
-}
-
 .margins {
+    padding: 250px;
     margin-top: 50px;
     margin-bottom: 100px;
     margin-right: 150px;
