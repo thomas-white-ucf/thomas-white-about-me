@@ -1,11 +1,45 @@
-.customheader {
-    background-color: blue;
+
+h1 {
+    text-align: center;
 }
 
-.bioarea {
+img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.customheader {
+    background-color:  blue;
     margin:auto;
 }
 
 .contactarea {
     margin:right;
+}
+
+.containterfloatleftright {
+    float: left;
+    float: right;
+}
+ 
+.containterfloatleft {
+    float: left;
+}
+
+.containterfloatright {
+    float: right;
+}
+
+.paddingmain {
+    padding: 250;
+    margin: 250;
+}
+
+.margins {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
 }
