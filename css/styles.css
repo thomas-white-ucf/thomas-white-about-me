@@ -12,11 +12,11 @@ img {
 
 .customheader {
     background-color:  blue;
-    margin:auto;
+    margin: auto;
 }
 
 .contactarea {
-    margin:right;
+    margin: right;
 }
 
 .containterfloatleftright {
@@ -33,8 +33,8 @@ img {
 }
 
 .paddingmain {
-    padding: 250;
-    margin: 250;
+    padding: 250px;
+    margin: 250px;
 }
 
 .margins {
