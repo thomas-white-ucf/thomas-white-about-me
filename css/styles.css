@@ -29,9 +29,13 @@ img {
 }
 
 .margins {
-    padding: 250px;
     margin-top: 50px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
+}
+
+.paddingmain {
+    padding: 250;
+    margin: 250;
 }
